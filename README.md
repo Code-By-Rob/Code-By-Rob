@@ -14,11 +14,12 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Code-by-Rob&style=flat-square&color=blue" alt=""/>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80px"/>
-</h1>
+<div align="center">
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80px"/>
+  </h1>
+</div>
 
 ---
 
