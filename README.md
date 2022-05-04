@@ -46,7 +46,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-By-Rob&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-By-Rob&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-By-Rob&show_icons=true&theme=highcontrast&hide_border=true)
 
 <!--
 **Code-By-Rob/Code-By-Rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
