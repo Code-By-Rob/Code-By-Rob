@@ -11,7 +11,11 @@
   <a target="_blank" href="https://twitter.com/CodeByRob">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a target="_blank" href="https://robertbowden.uk/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=html5&logoColor=violet" alt="Twitter Badge"/>
+  </a>
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Code-by-Rob&style=flat-square&color=blue" alt=""/>
 </div>
