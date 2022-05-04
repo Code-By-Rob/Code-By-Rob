@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/10A8Ho8Vjpcbw4/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
