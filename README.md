@@ -25,7 +25,7 @@
 ### My Technologies // Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android" width="40" height="40"/>
 </div>
 
 <!--
