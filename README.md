@@ -44,11 +44,11 @@
 </div>
 
 ### 🎆 my stats:
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-By-Rob&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-By-Rob&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-By-Rob&show_icons=true&theme=highcontrast&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Rob&layout=compact&langs_count=8&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
