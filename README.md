@@ -5,8 +5,17 @@ const Rob = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   techStack: [MEAN, MERN],
-  projects: ['miniflash.co.uk']
+  projects: ['miniflash.co.uk'],
+  education: {
+    university: { facility: 'STEM', course: 'BSc Computer Science' },
+    udemy: [],
+    books: [],
+  }
 }
+const toLearn = [
+  'Electron.js',
+  'ReactJS'
+]
 ```
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"/>
 <h2>The important stuff</h2>
