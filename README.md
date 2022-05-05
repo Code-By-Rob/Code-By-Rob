@@ -66,13 +66,18 @@ const toLearn = [
 </div>
 <div align="center">
   <h3>Private Work:</h3>
-  <ul>
-    <li><a href="https://www.miniflash.co.uk/">miniflash language learning</a></li>
-  </ul>
+  <a href="https://www.miniflash.co.uk/">miniflash language learning</a>
+</div>
+
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"/>
+
+<div align="center">
+  <h3>Useful Learning Resources</h3>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-By-Rob&repo=Amazing-Web-Design)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-By-Rob&repo=Amazing-Web-Design)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-By-Rob&repo=Amazing-Web-Design)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### My Technologies // Tools
 
