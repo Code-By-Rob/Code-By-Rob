@@ -1,6 +1,6 @@
 <table border="0">
-  <tr>
-    <td>
+  <tr border="0">
+    <td border="0">
       <div align="left">
         <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
         <p>🔭 I’m currently working on ...</p>
@@ -12,7 +12,7 @@
         <p>⚡ Fun fact: ...</p>
       </div>
     </td>
-    <td>
+    <td border="0">
       <div align="right">
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100"/>
       </div>
