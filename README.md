@@ -7,7 +7,7 @@
 ```javascript
 const Rob = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, HTML5, CSS3, Python, Java],
   techStack: [MEAN, MERN],
   projects: ['miniflash.co.uk'],
   education: {
