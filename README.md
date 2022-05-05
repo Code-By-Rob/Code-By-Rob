@@ -1,13 +1,37 @@
-<div>
-  <div align="left" width="50">
-    <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
-    <p>🔭 I’m currently working on ...</p>
-    <p>🌱 I’m currently learning ...</p>
-    <p>👯 I’m looking to collaborate on ...</p>
-    <p>🤔 I’m looking for help with ...</p>
-    <p>💬 Ask me about ...</p>
-    <p>📫 How to reach me: ...</p>
-    <div id="badges" align="center">
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
+        <p>🔭 I’m currently working on ...</p>
+        <p>🌱 I’m currently learning ...</p>
+        <p>👯 I’m looking to collaborate on ...</p>
+        <p>🤔 I’m looking for help with ...</p>
+        <p>💬 Ask me about ...</p>
+        <p>📫 How to reach me: ...</p>
+        <p>⚡ Fun fact: ...</p>
+      </div>
+    </td>
+    <td>
+      <div align="right">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/10A8Ho8Vjpcbw4/giphy.gif" width="40" height="80"/>
+</div>
+<div id="badges" align="center">
       <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
@@ -21,17 +45,6 @@
         <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
       </a>
     </div>
-    <p>⚡ Fun fact: ...</p>
-  </div>
-  <div align="right" width="50">
-    <img src="https://media.giphy.com/media/4Ny5uPiauFzyBlULtA/giphy-downsized-large.gif" width="100"/>
-  </div>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/10A8Ho8Vjpcbw4/giphy.gif" width="40" height="80"/>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Code-by-Rob&style=flat-square&color=blue" alt=""/>
 </div>
