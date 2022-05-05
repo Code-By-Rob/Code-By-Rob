@@ -1,5 +1,5 @@
 <div>
-  <div align="center" width="50%">
+  <div align="left" width="50">
     <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
     <p>🔭 I’m currently working on ...</p>
     <p>🌱 I’m currently learning ...</p>
@@ -9,7 +9,7 @@
     <p>📫 How to reach me: ...</p>
     <p>⚡ Fun fact: ...</p>
   </div>
-  <div align="center" width="50%">
+  <div align="right" width="50">
     <img src="https://media.giphy.com/media/4Ny5uPiauFzyBlULtA/giphy-downsized-large.gif" width="100"/>
   </div>
 </div>
