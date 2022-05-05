@@ -80,5 +80,6 @@ const toLearn = [
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GorvGoyl&repo=Clone-Wars)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lydiahallie&repo=javascript-questions)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"/>
