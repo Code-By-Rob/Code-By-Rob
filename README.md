@@ -17,9 +17,6 @@
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100"/>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td></td>
     <td></td>
   </tr>
   <tr>
