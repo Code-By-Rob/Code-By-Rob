@@ -1,3 +1,19 @@
+<div>
+  <div align="center">
+    <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
+    <p>🔭 I’m currently working on ...</p>
+    <p>🌱 I’m currently learning ...</p>
+    <p>👯 I’m looking to collaborate on ...</p>
+    <p>🤔 I’m looking for help with ...</p>
+    <p>💬 Ask me about ...</p>
+    <p>📫 How to reach me: ...</p>
+    <p>⚡ Fun fact: ...</p>
+  </div>
+  <div align="center">
+    <img src="https://media.giphy.com/media/4Ny5uPiauFzyBlULtA/giphy-downsized-large.gif" width="400"/>
+  </div>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/10A8Ho8Vjpcbw4/giphy.gif" width="40" height="80"/>
 </div>
@@ -50,19 +66,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-By-Rob&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Rob&layout=compact&langs_count=8&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**Code-By-Rob/Code-By-Rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
