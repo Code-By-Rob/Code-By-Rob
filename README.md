@@ -1,5 +1,7 @@
 <!-- My Introduction -->
-<h1>Hey there, I'm Rob! 😄</h1>
+<div align="center">
+  <h1>Hey there, I'm Rob! 😄</h1> 
+</div>
 
 ```javascript
 const Rob = {
