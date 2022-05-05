@@ -19,7 +19,7 @@ const Rob = {
     ],
     books: [
       { title: 'Building a StoryBrand', authors: ['Donald Miller'], genre: 'Marketing' },
-      { title: 'The little book of YES', authors: ['noah Goldstein', 'Steve Martin', 'Robert Cialdini'], genre: 'Marketing' }
+      { title: 'The little book of YES', authors: ['noah Goldstein', 'Steve Martin', 'Robert Cialdini'], genre: 'Betterment' }
     ],
   }
 }
