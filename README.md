@@ -1,9 +1,17 @@
 <!-- My Introduction -->
-
+<div align="center">
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
+  <p>🔭 I’m currently working on ...</p>
+  <p>🌱 I’m currently learning ...</p>
+  <p>👯 I’m looking to collaborate on ...</p>
+  <p>🤔 I’m looking for help with ...</p>
+  <p>💬 Ask me about ...</p>
+  <p>📫 How to reach me: ...</p>
+  <p>⚡ Fun fact: ...</p>
+</div>
 <!-- My Details -->
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
-    My LinkedIn
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a target="_blank" href="https://www.youtube.com/channel/UCNAOKNDuLEDCT7_dNNd08yA">
@@ -13,7 +21,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
   <a target="_blank" href="https://robertbowden.uk/">
-    My Personal Site
     <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -30,32 +37,7 @@
 
 <!-- CTAs -->
 
-<table border="0" width="100">
-  <tr border="0">
-    <td border="0">
-      <div align="left">
-        <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
-        <p>🔭 I’m currently working on ...</p>
-        <p>🌱 I’m currently learning ...</p>
-        <p>👯 I’m looking to collaborate on ...</p>
-        <p>🤔 I’m looking for help with ...</p>
-        <p>💬 Ask me about ...</p>
-        <p>📫 How to reach me: ...</p>
-        <p>⚡ Fun fact: ...</p>
-      </div>
-    </td>
-    <td border="0">
-      <div align="right">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100"/>
-      </div>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Code-by-Rob&style=flat-square&color=blue" alt=""/>
