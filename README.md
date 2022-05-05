@@ -1,6 +1,5 @@
 <!-- My Introduction -->
-# Hey there, I'm Rob!
-<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"/>
+# Hey there, I'm Rob! 😄
 ```javascript
 const Rob = {
   pronouns: "he" | "him",
@@ -9,6 +8,8 @@ const Rob = {
   projects: ['miniflash.co.uk']
 }
 ```
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"/>
+## The important stuff
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
