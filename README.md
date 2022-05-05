@@ -1,14 +1,12 @@
 <!-- My Introduction -->
-<div align="center">
-  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
-  <p>🔭 I’m currently working on ...</p>
-  <p>🌱 I’m currently learning ...</p>
-  <p>👯 I’m looking to collaborate on ...</p>
-  <p>🤔 I’m looking for help with ...</p>
-  <p>💬 Ask me about ...</p>
-  <p>📫 How to reach me: ...</p>
-  <p>⚡ Fun fact: ...</p>
-</div>
+```javascript
+const Rob = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  techStack: [MEAN, MERN],
+  projects: ['miniflash.co.uk']
+}
+```
 <!-- My Details -->
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
@@ -23,6 +21,16 @@
   <a target="_blank" href="https://robertbowden.uk/">
     <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
+  <p>🔭 I’m currently working on ...</p>
+  <p>🌱 I’m currently learning ...</p>
+  <p>👯 I’m looking to collaborate on ...</p>
+  <p>🤔 I’m looking for help with ...</p>
+  <p>💬 Ask me about ...</p>
+  <p>📫 How to reach me: ...</p>
+  <p>⚡ Fun fact: ...</p>
 </div>
 
 <!-- Highlighted Repos -->
