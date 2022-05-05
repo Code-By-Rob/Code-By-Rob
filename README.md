@@ -1,3 +1,35 @@
+<!-- My Introduction -->
+
+<!-- My Details -->
+<div id="badges" align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
+    My LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a target="_blank" href="https://www.youtube.com/channel/UCNAOKNDuLEDCT7_dNNd08yA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a target="_blank" href="https://twitter.com/CodeByRob">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+  <a target="_blank" href="https://robertbowden.uk/">
+    My Personal Site
+    <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<!-- Highlighted Repos -->
+
+<!-- My Tech Stack -->
+
+<!-- Libraries I love -->
+
+<!-- Frameworks -->
+
+<!-- My Stats -->
+
+<!-- CTAs -->
+
 <table border="0" width="100">
   <tr border="0">
     <td border="0">
@@ -25,27 +57,9 @@
   </tr>
 </table>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/10A8Ho8Vjpcbw4/giphy.gif" width="40" height="80"/>
-</div>
-<div id="badges" align="center">
-      <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a target="_blank" href="https://www.youtube.com/channel/UCNAOKNDuLEDCT7_dNNd08yA">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      </a>
-      <a target="_blank" href="https://twitter.com/CodeByRob">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-      <a target="_blank" href="https://robertbowden.uk/">
-        <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
-      </a>
-    </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Code-by-Rob&style=flat-square&color=blue" alt=""/>
 </div>
-
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"/>
 
 ### My Technologies // Tools
