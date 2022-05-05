@@ -13,13 +13,18 @@ const Rob = {
   projects: ['miniflash.co.uk'],
   education: {
     university: { facility: 'STEM', course: 'BSc Computer Science' },
-    udemy: [],
-    books: [],
+    udemy: [
+      {course: 'The Web Developer Bootcamp 2022', courseAuthor: 'Colt Steele', completion: '100%'},
+      {course: 'The Complete 2022 Web Development Bootcamp', courseAuthor: 'Dr. Angela Yu', completion: '50%'}
+    ],
+    books: [
+      { title: 'Building a StoryBrand', authors: ['Donald Miller'], genre: 'Marketing' },
+      { title: 'The little book of YES', authors: ['noah Goldstein', 'Steve Martin', 'Robert Cialdini'], genre: 'Marketing' }
+    ],
   }
 }
 const toLearn = [
-  'Electron.js',
-  'ReactJS'
+  'Electron.js'
 ]
 ```
 
