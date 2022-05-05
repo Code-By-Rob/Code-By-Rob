@@ -9,6 +9,7 @@ const Rob = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML5, CSS3, Python, Java],
   techStack: [MEAN, MERN],
+  tools: ['Node.js', 'MongoDB', 'AWS'],
   projects: ['miniflash.co.uk'],
   education: {
     university: { facility: 'STEM', course: 'BSc Computer Science' },
