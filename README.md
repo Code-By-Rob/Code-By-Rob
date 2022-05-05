@@ -1,3 +1,12 @@
+<!-- My Introduction -->
+```javascript
+const Rob = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  techStack: [MEAN, MERN],
+  projects: ['miniflash.co.uk']
+}
+```
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,15 +21,6 @@
     <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<!-- My Introduction -->
-```javascript
-const Rob = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  techStack: [MEAN, MERN],
-  projects: ['miniflash.co.uk']
-}
-```
 <!-- My Details -->
 <div align="center">
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
