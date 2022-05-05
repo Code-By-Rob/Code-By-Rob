@@ -63,7 +63,7 @@ const toLearn = [
   <img src="https://komarev.com/ghpvc/?username=Code-by-Rob&style=flat-square&color=blue" alt=""/>
 </div>
 
-### My Technologies // Tools
+<!-- ### My Technologies // Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android" width="40" height="40"/>
@@ -90,4 +90,4 @@ const toLearn = [
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-By-Rob&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Rob&layout=compact&langs_count=8&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Rob&layout=compact&langs_count=8&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
