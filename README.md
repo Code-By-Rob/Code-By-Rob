@@ -34,7 +34,7 @@ const toLearn = [
   </a>
 </div>
 <!-- My Details -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" height="40"/>
   <p>🔭 I’m currently working on ...</p>
   <p>🌱 I’m currently learning ...</p>
@@ -43,7 +43,7 @@ const toLearn = [
   <p>💬 Ask me about ...</p>
   <p>📫 How to reach me: ...</p>
   <p>⚡ Fun fact: ...</p>
-</div>
+</div> -->
 
 <!-- Highlighted Repos -->
 
