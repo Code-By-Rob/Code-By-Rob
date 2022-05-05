@@ -7,6 +7,20 @@
     <p>🤔 I’m looking for help with ...</p>
     <p>💬 Ask me about ...</p>
     <p>📫 How to reach me: ...</p>
+    <div id="badges" align="center">
+      <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a target="_blank" href="https://www.youtube.com/channel/UCNAOKNDuLEDCT7_dNNd08yA">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a target="_blank" href="https://twitter.com/CodeByRob">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+      <a target="_blank" href="https://robertbowden.uk/">
+        <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
+      </a>
+    </div>
     <p>⚡ Fun fact: ...</p>
   </div>
   <div align="right" width="50">
@@ -16,20 +30,6 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/10A8Ho8Vjpcbw4/giphy.gif" width="40" height="80"/>
-</div>
-<div id="badges" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCNAOKNDuLEDCT7_dNNd08yA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a target="_blank" href="https://twitter.com/CodeByRob">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a target="_blank" href="https://robertbowden.uk/">
-    <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div align="center">
