@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a target="_blank" href="https://robertbowden.uk/">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
