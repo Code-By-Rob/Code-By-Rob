@@ -45,7 +45,7 @@
 ### 🎆 my stats:
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" alt="Web Safe" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" alt="Web Safe" width="80" height="80"/>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-By-Rob&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
