@@ -4,13 +4,14 @@
   <h1>Hey there, I'm Rob! 😄</h1> 
 </div>
 
-<div>
+<div align="center">
   <h3>In short:</h3>
-  <span>🧑‍💻</span>
   <span>🐱‍💻</span>
-  <span>🐱‍💻</span>
-  <span>🐱‍💻</span>
-  <span>🐱‍💻</span>
+  <span>🧐</span>
+  <span>🤨</span>
+  <span>🤯</span>
+  <span>😮</span>
+  <span>🙃</span>
   <span>🐱‍💻</span>
 </div>
 
