@@ -6,13 +6,13 @@
 
 <div align="center">
   <h3>In short:</h3>
-  <span><h2>🐱‍💻</h2></span>
-  <span><h2>🧐</h2></span>
-  <span><h2>🤨</h2></span>
-  <span><h2>😰</h2></span>
-  <span><h2>😮</h2></span>
-  <span><h2>🙃</h2></span>
-  <span><h2>🐱‍💻</h2></span>
+  <span>🐱‍💻</span>
+  <span>🧐</span>
+  <span>🤨</span>
+  <span>😰</span>
+  <span>😮</span>
+  <span>🙃</span>
+  <span>🐱‍💻</span>
 </div>
 
 ```javascript
