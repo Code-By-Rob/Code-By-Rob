@@ -4,6 +4,16 @@
   <h1>Hey there, I'm Rob! 😄</h1> 
 </div>
 
+<div>
+  <h3>In short:</h3>
+  <span>🧑‍💻</span>
+  <span>🐱‍💻</span>
+  <span>🐱‍💻</span>
+  <span>🐱‍💻</span>
+  <span>🐱‍💻</span>
+  <span>🐱‍💻</span>
+</div>
+
 ```javascript
 const Rob = {
   pronouns: "he" | "him",
