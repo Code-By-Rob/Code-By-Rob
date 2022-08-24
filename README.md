@@ -46,7 +46,7 @@ const toLearn = [
   <a target="_blank" href="https://www.linkedin.com/in/r-bowden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <div align="center">Follow the button below to check out my personal site<br>You can ask me questions about me on my website!</div>
+  <div align="center">Follow the button below to check out my personal site<br>You can ask questions about me on my website!</div>
   <a target="_blank" href="https://robertbowden.uk/">
     <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logo=html5&logoColor=white" alt="Twitter Badge"/>
   </a>
