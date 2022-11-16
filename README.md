@@ -28,10 +28,6 @@ const Rob = {
       {course: 'The Web Developer Bootcamp 2022', courseAuthor: 'Colt Steele', completion: '100%'},
       {course: 'The Complete 2022 Web Development Bootcamp', courseAuthor: 'Dr. Angela Yu', completion: '100%'}
     ],
-    books: [
-      { title: 'Building a StoryBrand', authors: ['Donald Miller'], genre: 'Marketing' },
-      { title: 'The little book of YES', authors: ['noah Goldstein', 'Steve Martin', 'Robert Cialdini'], genre: 'Betterment' }
-    ],
   }
 }
 const toLearn = [
