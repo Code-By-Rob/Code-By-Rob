@@ -84,7 +84,7 @@ const toLearn = [
   <h2>Useful Learning Resources</h2>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-By-Rob&repo=Amazing-Web-Design)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-By-Rob&repo=Amazing-Web-Design)](https://github.com/Code-By-Rob/Amazing-Web-Design)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EbookFoundation&repo=free-programming-books)](https://github.com/EbookFoundation/free-programming-books)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thedaviddias&repo=Front-End-Checklist)](https://github.com/thedaviddias/Front-End-Checklist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamranahmedse&repo=developer-roadmap)](https://github.com/kamranahmedse/developer-roadmap)
